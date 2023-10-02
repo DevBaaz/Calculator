@@ -1,0 +1,23 @@
+#calc {
+    margin: 0 auto; 
+}
+
+#calculator {
+    width: 1%; height: 70%;
+}
+
+.digit {
+    background-color: white; border-color: gray; border-width: 1px;  
+}
+
+.equal {
+    background-color: rgb(120, 120, 253); border-color: rgb(180, 178, 178); border-width: 1px; 
+}
+
+.control {
+    background-color: rgb(178, 175, 175); border-width: 1px; border-color: gray;
+}
+
+#screen {
+    border: black solid; text-align: right; height: 50%; border-color: gray; border-width: 1px;
+}
